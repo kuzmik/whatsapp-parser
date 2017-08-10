@@ -1,0 +1,15 @@
+5/25/16, 23:44:10: ‎You created group “test”
+5/25/16, 23:44:20: ‎Messages you send to this group are now secured with end-to-end encryption.
+5/25/16, 23:44:19: Nick: What is this
+5/26/16, 19:01:29: George Garamundai: hi
+5/28/16, 09:46:32: ‎George Garamundai added Ray Jackson
+5/26/16, 19:06:47: Chuck Libbers: I'll make sure that danveloper live tweets your eulogy
+5/26/16, 19:07:29: Nick: 2016-05-26-PHOTO-00000009.jpg <‎attached>
+5/27/16, 17:11:26: Chuck Libbers: DearChuck,
+
+I am Technical Recruiter for the Amazon Consumer Division and we are seeking talented “Software Engineers”, “Software Development Managers” and “Technical Project Managers” to join one of the fastest growing areas in Amazon's Market Place and FBA teams platform who will get a chance to build the next generation highly scalable systems and help drive the overall technical architecture of the teams.
+5/27/16, 17:11:48: Chuck Libbers: Buddy, sometimes I feel like a "Software Engineer"
+5/27/16, 17:12:09: Chuck Libbers: Also good luck using that term outside the U.S.
+5/27/16, 17:12:48: Nick: love the quotes
+1/25/17, 11:27:05: ‎Alexis Rocks joined using this group's invite link
+1/25/17, 11:27:29: Alexis Rocks: Is there a command line client for this
